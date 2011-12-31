@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pregnancy Calculator</string>
+    <string name="main_menu_message">Digital Campus</string>
+    
+    <string name="enterlmd">Last menstrual period date:</string>
+    <string name="eddethiolabel">Expected delivery date:</string>
+</resources>
