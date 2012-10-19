@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string-array 
+		name="ethiopian_months">
+		<item>Meskerem</item>
+		<item>Tikimt</item>
+		<item>Hidar</item>
+		<item>Tahsas</item>
+		<item>Tir</item>
+		<item>Yekatit</item>
+		<item>Megabit</item>
+		<item>Miazia</item>
+		<item>Ginbot</item>
+		<item>Senie</item>
+		<item>Hamlie</item>
+		<item>Nehasie</item>
+		<item>Pagumien</item>
+	</string-array>
+</resources>
